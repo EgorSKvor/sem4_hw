@@ -1,0 +1,15 @@
+/Users/aaa/Desktop/Prog edu/C# lessons/sem4_hw/ex002/obj/Debug/net6.0/ex002.csproj.AssemblyReference.cache
+/Users/aaa/Desktop/Prog edu/C# lessons/sem4_hw/ex002/obj/Debug/net6.0/ex002.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aaa/Desktop/Prog edu/C# lessons/sem4_hw/ex002/obj/Debug/net6.0/ex002.AssemblyInfoInputs.cache
+/Users/aaa/Desktop/Prog edu/C# lessons/sem4_hw/ex002/obj/Debug/net6.0/ex002.AssemblyInfo.cs
+/Users/aaa/Desktop/Prog edu/C# lessons/sem4_hw/ex002/obj/Debug/net6.0/ex002.csproj.CoreCompileInputs.cache
+/Users/aaa/Desktop/Prog edu/C# lessons/sem4_hw/ex002/bin/Debug/net6.0/ex002
+/Users/aaa/Desktop/Prog edu/C# lessons/sem4_hw/ex002/bin/Debug/net6.0/ex002.deps.json
+/Users/aaa/Desktop/Prog edu/C# lessons/sem4_hw/ex002/bin/Debug/net6.0/ex002.runtimeconfig.json
+/Users/aaa/Desktop/Prog edu/C# lessons/sem4_hw/ex002/bin/Debug/net6.0/ex002.dll
+/Users/aaa/Desktop/Prog edu/C# lessons/sem4_hw/ex002/bin/Debug/net6.0/ex002.pdb
+/Users/aaa/Desktop/Prog edu/C# lessons/sem4_hw/ex002/obj/Debug/net6.0/ex002.dll
+/Users/aaa/Desktop/Prog edu/C# lessons/sem4_hw/ex002/obj/Debug/net6.0/refint/ex002.dll
+/Users/aaa/Desktop/Prog edu/C# lessons/sem4_hw/ex002/obj/Debug/net6.0/ex002.pdb
+/Users/aaa/Desktop/Prog edu/C# lessons/sem4_hw/ex002/obj/Debug/net6.0/ex002.genruntimeconfig.cache
+/Users/aaa/Desktop/Prog edu/C# lessons/sem4_hw/ex002/obj/Debug/net6.0/ref/ex002.dll
